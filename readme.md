@@ -37,4 +37,3 @@ npm run dev
 ## Authors
 
 * **Samuel Gustafsson** - [Linkedin](https://www.linkedin.com/in/samuel-gustafsson)
-# Slutproject-aw2
