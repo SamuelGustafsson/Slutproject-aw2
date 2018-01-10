@@ -1,0 +1,15 @@
+.login-btn {
+    width: 100%;
+}
+
+.chip:hover {
+    cursor: pointer;
+}
+
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
